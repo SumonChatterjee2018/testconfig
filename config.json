@@ -1,5 +1,5 @@
 {
-  "backendUrl": "http://127.0.0.1",
+  "backendUrl": "http://127.0.0.1:9000",
   "type": "development",
   "timestamp": "2025-05-17T14:30:00Z"
 }
